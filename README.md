@@ -1,9 +1,8 @@
 [![INFORMS Journal on Computing](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# On exact approaches for interdicting connected dominating sets
+# [On exact approaches for interdicting connected dominating sets](https://doi.org/10.1287/ijoc.2025.1541)
 
-This archive accompanies the paper *On exact approaches for interdicting connected dominating sets* by Haonan Zhong, Foad Mahdavi Pajouh, and Oleg A. Prokopyev in the INFORMS Journal on Computing. It contains the C++ implementations of the two main algorithms and the 135 weighted graph instances. The software is distributed under the [MIT License](LICENSE).
-
+This archive accompanies the paper *On exact approaches for interdicting connected dominating sets* by Haonan Zhong, Foad Mahdavi Pajouh, and Oleg A. Prokopyev in the INFORMS Journal on Computing. It contains the C++ implementations of the two main algorithms and the 135 weighted graph instances. This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 ## Cite
 
 Please cite both the paper and this software archive using their respective DOIs.
