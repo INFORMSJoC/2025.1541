@@ -4,8 +4,6 @@
 
 This archive accompanies the paper *On exact approaches for interdicting connected dominating sets* by Haonan Zhong, Foad Mahdavi Pajouh, and Oleg A. Prokopyev in the INFORMS Journal on Computing. It contains the C++ implementations of the two main algorithms and the 135 weighted graph instances used in Tables 1–3. The software is distributed under the [MIT License](LICENSE).
 
-The source code and graph files come from [commit 09d234a in the development repository](https://github.com/xlxr/CIP/commit/09d234abf32208a5685e2ebf5dac31baea26c312).
-
 ## Cite
 
 Please cite both the paper and this software archive using their respective DOIs.
